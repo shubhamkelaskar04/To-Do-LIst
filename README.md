@@ -1,4 +1,4 @@
 #To-do-list
 Html CSS Js
 
-![image](./Snapshots.png)
+![image](./Snapshot.png)
